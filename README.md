@@ -1,3 +1,3 @@
-# My new project
+# SE203
 
-This is the project from Bruno Pons.
+Embedded Systems architectures, bare metal project in C language within the framework of the course SE203 at Telecom Paris. 
